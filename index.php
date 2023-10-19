@@ -1,3 +1,10 @@
-<?php
+<!DOCTYPE html>
+<html>
+<body>
 
-echo "Hello Azure!";
+<?php
+echo "My first PHP script!";
+?>
+
+</body>
+</html>
